@@ -6,25 +6,25 @@
     "start": "node ./bin/run"
   },
   "dependencies": {
-    "body-parser": "~1.0.0",
+    "body-parser": "~1.15.2",
     "compression": "^1.0.11",
-    "cookie-parser": "~1.0.1",
-    "debug": "~0.7.4",
-    "ejs": "~0.8.5",
-    "express": "~4.2.0",
-    "html-minifier": "^0.6.8",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.5.2",
+    "express": "~4.14.0",
+    "html-minifier": "^3.1.1",
     "jQuery": "^1.7.4",
-    "jsdom": "^0.11.1",
-    "morgan": "~1.0.0",
+    "jsdom": "^9.8.3",
+    "morgan": "~1.7.0",
     "request": "^2.37.0",
     "static-favicon": "~1.0.0",
     "xmlhttprequest": "^1.6.0"
   },
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-contrib-clean": "^0.6.0",
-    "grunt-contrib-copy": "^0.5.0",
-    "grunt-contrib-cssmin": "^0.10.0",
-    "grunt-contrib-uglify": "^0.5.1"
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0"
   }
 }
